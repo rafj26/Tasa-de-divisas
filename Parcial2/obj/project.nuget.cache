@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "XgyJwnU/GeNnpFo94KwP0Dy5xq34W5i656RUq68dr3HpvsGqq3q4xTAp8KR+fuSb0Erk3DDOdQGgFZCV/s8xDQ==",
+  "success": true,
+  "projectFilePath": "/home/rafj/Documentos/repo/ds4/Parcial2/Parcial2.csproj",
+  "expectedPackageFiles": [
+    "/home/rafj/.nuget/packages/atksharp/3.22.25.13/atksharp.3.22.25.13.nupkg.sha512",
+    "/home/rafj/.nuget/packages/cairosharp/3.22.25.13/cairosharp.3.22.25.13.nupkg.sha512",
+    "/home/rafj/.nuget/packages/gdksharp/3.22.25.13/gdksharp.3.22.25.13.nupkg.sha512",
+    "/home/rafj/.nuget/packages/giosharp/3.22.25.13/giosharp.3.22.25.13.nupkg.sha512",
+    "/home/rafj/.nuget/packages/glibsharp/3.22.25.13/glibsharp.3.22.25.13.nupkg.sha512",
+    "/home/rafj/.nuget/packages/gtksharp/3.22.25.13/gtksharp.3.22.25.13.nupkg.sha512",
+    "/home/rafj/.nuget/packages/pangosharp/3.22.25.13/pangosharp.3.22.25.13.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Parcial2 depends on GtkSharp (>= 3.22.25) but GtkSharp 3.22.25 was not found. An approximate best match of GtkSharp 3.22.25.13 was resolved.",
+      "libraryId": "GtkSharp",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
